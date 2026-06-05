@@ -7,6 +7,7 @@ public class Practice1 {
 		//checking pull request
 		//comment test1
 		//creation of pullrequest
+		//test101 checking merge conflict
 
 	}
 // TODO Auto-generated method stub
